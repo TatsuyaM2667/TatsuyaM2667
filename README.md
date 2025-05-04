@@ -1,7 +1,4 @@
-- ##Hi, I’m @TatsuyaM2667
-- 👀 I’m interested in app development and machine learning.
-- 🌱 I’m currently learning JavaScript and C/C++.
-- 💞️ I’m looking to collaborate on app development.
+## stars
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaM2667&theme=2077)
 
 <!---
