@@ -1,4 +1,3 @@
-## stars
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TatsuyaM2667&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TatsuyaM2667&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TatsuyaM2667&theme=tokyonight)
