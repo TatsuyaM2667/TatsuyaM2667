@@ -9,11 +9,11 @@
 
 ##  Skills
 ### Programing Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,gcp,java,c,cpp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,react,java,c,cpp" />
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,arduino,git,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,arduino,git,github,gcp" />
 <br>
 
 ##  Activities
