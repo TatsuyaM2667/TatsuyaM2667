@@ -9,7 +9,7 @@
 
 ##  Skills
 ### Programing Languages
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,c,cpp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,java,cpp" />
 <br>
 
 ### Tools
