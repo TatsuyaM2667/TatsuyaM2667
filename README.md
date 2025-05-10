@@ -13,7 +13,7 @@
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,arduino,git,github,npm,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,arduino,git,github,gcp" />
 <br>
 
 ##  Activities
