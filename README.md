@@ -16,7 +16,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,arduino,git,github,gcp,firebase,aws" />
 <br>
 
-#### arduinoからプログラミングを始め、Google Appscriptからフロントエンド技術の学習を始めて現在はJavascriptとReactNativeを用いてアプリ開発の学習をしてます。
+
 ##  Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
