@@ -8,7 +8,7 @@
 
 
 ##  Skills
-### Programing Languages
+### Programing Languages & Library
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,html,css,js,ts,react,next" />
 <br>
 
