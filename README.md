@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,androidstudio&titles=true&theme=dark)
 
 
-#### Cloud Platforme
+#### Cloud Platform
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true&theme=dark)
 
 <br>
