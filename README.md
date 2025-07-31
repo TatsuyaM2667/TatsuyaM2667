@@ -16,7 +16,11 @@
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=arduino,vscode,git,github,gcp,firebase,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,arduino,vscode,git,github,gcp" />
+
+#### Database
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=firebase,aws" />
+
 <br>
 
 
