@@ -12,14 +12,14 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,cpp,html,css,tailwind,js,ts,react" />
 
 #### FrameWork
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=vite,electron,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=vite,electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo&titles=true)
 <br>
 
 ### Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,arduino,vscode,git,github,gcp" />
 
 #### Database
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=firebase,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)
 
 <br>
 
