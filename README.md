@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,arduino,vscode,git,github,gcp" />
 
 #### Database
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true&theme=dark)
 
 <br>
 
