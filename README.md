@@ -9,10 +9,10 @@
 
 ##  Skills
 ### Programing Languages & Library
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,html,css,tailwind,js,ts,react" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,html,css,tailwind,js,ts,react" />   
 
 #### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,googleappsscript&titles=true&theme=dark)
 <br>
 
 ### Tools
