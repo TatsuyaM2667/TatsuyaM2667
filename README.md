@@ -11,7 +11,7 @@
 ### Programing Languages & Library
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,cpp,html,css,tailwind,js,ts,react" />
 
-#### FrameWork
+#### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=vite,electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo&titles=true&theme=dark)
 <br>
 
