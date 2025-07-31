@@ -9,7 +9,7 @@
 
 ##  Skills
 ### Programing Languages & Library
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,cpp,html,css,js,ts,react,vite,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,cpp,html,css,js,ts,react,vite,next,electron" />
 <br>
 
 ### Tools
