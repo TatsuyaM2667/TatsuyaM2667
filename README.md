@@ -16,7 +16,7 @@
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=windows,arduino,vscode,git,github,gcp" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github,gcp" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio&titles=true&theme=dark)
 
 #### Database
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase&titles=true&theme=dark)
