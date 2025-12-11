@@ -9,7 +9,10 @@
 
 ##  Skills
 ### Programing Languages & Library
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,html,css,tailwind,js,ts,react" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,js,ts,python" />   
+
+### Frontend Development
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react" />   
 
 #### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,googleappsscript&titles=true&theme=dark)
@@ -31,7 +34,8 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![](https://raw.githubusercontent.com/TatsuyaM2667/TatsuyaM2667/output/github-contribution-grid-snake.svg)
 
 
