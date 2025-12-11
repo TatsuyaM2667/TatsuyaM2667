@@ -26,7 +26,7 @@
 
 
 ### Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare,mongodb&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
 
 ### Devops
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   
