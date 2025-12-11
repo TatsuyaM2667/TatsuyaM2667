@@ -31,8 +31,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://raw.githubusercontent.com/TatsuyaM2667/TatsuyaM2667/output/github-contribution-grid-snake.svg)
 
 
