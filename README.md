@@ -8,7 +8,7 @@
 
 
 ##  Skills
-### Programing Languages & Library
+### Programing Languages 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,js,ts,python" />   
 
 ### Frontend Development
@@ -25,8 +25,11 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,androidstudio&titles=true&theme=dark)
 
 
-#### Cloud Platform
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare,mongodb&titles=true&theme=dark)
+### Database
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare,mongodb&titles=true&theme=dark)
+
+### Devops
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   
 
 <br>
 
