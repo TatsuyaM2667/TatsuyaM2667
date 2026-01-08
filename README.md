@@ -32,7 +32,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   
 
 ### Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tailscale&theme=dark&titles=true" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare&theme=dark&titles=true" />
 
 <br>
 
