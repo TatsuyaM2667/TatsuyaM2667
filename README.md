@@ -15,7 +15,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react" />   
 
 ### Mobile App Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,android&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,capacitor,android&titles=true&theme=dark)
 
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=expo,googleappsscript&titles=true&theme=dark)
