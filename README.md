@@ -25,7 +25,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,androidstudio,virtualbox&titles=true&theme=dark)
 
 ### OS
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,linux,arch,ubuntu" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,kali,Windows,ubuntu" />
 
 ### Database
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
