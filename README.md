@@ -9,7 +9,7 @@
 
 ##  Skills
 ### Programing Languages 
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=cpp,js,ts,rust,go" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=cpp,js,ts,rust,python,go" />   
 
 ### Frontend Development
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react" />   
