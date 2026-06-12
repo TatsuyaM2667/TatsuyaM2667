@@ -7,8 +7,9 @@
 </div>
 
 
-##  Skills
-### Programing Languages 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">　Skills
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20">　Programing Languages 
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=c,cpp,js,ts,rust,python,go" />   
 
 ### Frontend Development
@@ -39,7 +40,7 @@
 <br>
 
 
-##  Activities
+##  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Activities
 <div align="left"> 
   <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
