@@ -45,6 +45,9 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuyaM2667&theme=vue-dark&layout=compact" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TatsuyaM2667&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=FF6B9D&point=F7D794&area=true&area_color=00F0FF" width="99%" />
+</div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://raw.githubusercontent.com/TatsuyaM2667/TatsuyaM2667/output/github-contribution-grid-snake.svg)
