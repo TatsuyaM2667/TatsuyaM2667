@@ -16,14 +16,14 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react" />   
 
 ### Mobile App Development
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,capacitor,android&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
 
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,expo,googleappsscript&titles=true&theme=dark)
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,androidstudio,virtualbox&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=windows,arduino,vscode,git,github,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,virtualbox&titles=true&theme=dark)
 
 ### OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,windows,ubuntu" />
