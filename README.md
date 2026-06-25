@@ -23,7 +23,7 @@
 <br>
 
 ### Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arduino,Zed,vscode,git,github" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=googleappsscript,virtualbox&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arduino,zed,vscode,git,github" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,googleappsscript,virtualbox&titles=true&theme=dark)
 
 ### OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,windows,ubuntu" />
