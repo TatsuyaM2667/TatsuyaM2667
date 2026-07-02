@@ -27,7 +27,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=arduino,zed,git,github,googleappsscript,virtualbox,zen&titles=true&theme=dark)
 
 ### WM
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=hyprland,lua"/>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
 
 ### OS
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,windows,ubuntu,ios,android" />
