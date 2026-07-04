@@ -36,7 +36,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
 
 ### Devops
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp,aws" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=gcp" />   
 
 ### Infrastructure
 <img src="https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare,docker,gcp,distrobox&theme=dark&titles=true" />
