@@ -20,7 +20,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
 
 ### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite,next" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,expo,googleappsscript&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,expo,googleappsscript&titles=true&theme=dark)
 <br>
 
 ### Tools
