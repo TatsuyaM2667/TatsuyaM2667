@@ -24,7 +24,7 @@
 <br>
 
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,arduino,googleappsscript,virtualbox,qemu,zen&titles=true&theme=dark)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,arduino,googleappsscript,qemu,virtualbox,zen&titles=true&theme=dark)
 
 ### WM
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
