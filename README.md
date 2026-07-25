@@ -30,7 +30,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
 
 ### OS
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu,alma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu" />![My Skills](https://go-skill-icons.vercel.app/api/icons?i=alma&titles=true&theme=dark)
 
 ### Database
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
