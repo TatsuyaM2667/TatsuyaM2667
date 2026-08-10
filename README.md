@@ -14,7 +14,7 @@
 
 
 ### Frontend Development
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react,webassembly,yew,ratatui" />   
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react,webassembly,yew" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ratatui&titles=true&theme=dark)
 
 ### Mobile App Development
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
