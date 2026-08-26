@@ -1,7 +1,8 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z1Y325S0VH)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TatsuyaM2667&theme=prussian)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TatsuyaM2667&theme=prussian)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z1Y325S0VH)
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=TatsuyaM2667" />
 </div>
