@@ -16,29 +16,29 @@
 
 
 ### Frontend Development
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react,webassembly,yew" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ratatui&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react,webassembly,yew" />   ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=ratatui&titles=true&theme=dark)
 
 ### Mobile App Development
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
 
 ### Framework
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite" />   ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hono,bun,expo,googleappsscript&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite" />   ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=hono,bun,expo,googleappsscript&titles=true&theme=dark)
 <br>
 
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=zed,arduino,googleappsscript,qemu,virtualbox,zen,blender&titles=true&theme=dark)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=zed,arduino,googleappsscript,qemu,virtualbox,zen,blender&titles=true&theme=dark)
 
 ### WM
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
 
 ### OS
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu" />![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bsd&titles=true&theme=dark)
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu" />![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=bsd&titles=true&theme=dark)
 
 ### Database
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
 
 ### Infrastructure
-<img src="https://go-skill-icons.vercel.app/api/icons?i=tailscale,cloudflare,docker,gcp,distrobox&theme=dark&titles=true" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=tailscale,cloudflare,docker,gcp,distrobox&theme=dark&titles=true" />
 
 <br>
 
