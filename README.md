@@ -19,7 +19,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,tailwind,react,webassembly,yew" />  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=ratatui&theme=dark)
 
 ### Mobile App Development
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=gradle,reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=kotlin,ktor,gradle,reactnative,expo,capacitor,androidstudio,android&titles=true&theme=dark)
 
 ### Framework
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=15&i=electron,vite" />   ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=hono,bun,expo,googleappsscript&titles=true&theme=dark)
