@@ -26,7 +26,7 @@
 <br>
 
 ### Tools
-![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=zed,arduino,googleappsscript,qemu,virtualbox,blender&titles=true&theme=dark)
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=zed,arduino,googleappsscript,qemu&titles=true&theme=dark)
 
 ### WM
 ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=hyprland,lua&titles=true&theme=dark)
@@ -38,7 +38,7 @@
 ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=firebase,cloudflare&titles=true&theme=dark)
 
 ### Infrastructure
-<img src="https://skill-icons-v2.vercel.app/api/icons?i=tailscale,cloudflare,docker,gcp,distrobox&theme=dark&titles=true" />
+<img src="https://skill-icons-v2.vercel.app/api/icons?i=tailscale,cloudflare,docker,distrobox&theme=dark&titles=true" />
 
 <br>
 
