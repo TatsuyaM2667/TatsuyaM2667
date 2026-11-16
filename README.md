@@ -58,7 +58,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TatsuyaM2667&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TatsuyaM2667&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### Random Dev Quote
